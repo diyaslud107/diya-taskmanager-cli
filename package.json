@@ -1,0 +1,26 @@
+{
+  "name": "diya-taskmanager-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI application for managing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diyaslud107/diya-taskmanager-cli"
+    },
+  "homepage": "https://twitter.com/CassyLefeld",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.0",
+    "diya-taskmanager-cli": "^1.0.0"
+  },
+  "author": "Diya",
+  "license": "ISC"
+}
+
+
+
+
+
